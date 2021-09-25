@@ -16,7 +16,6 @@ from config import get_config
 from logger import logger
 from utils import newIcon
 
-#test change
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
